@@ -12,7 +12,7 @@ Ejecuta este comando en tu terminal para descargar el proyecto en tu equipo loca
 
 bash
 Copy
-git clone https://github.com/tu_usuario/nombre_del_repositorio.git  
+git clone 
 Iniciar la aplicación:
 Accede a la carpeta del proyecto y abre el archivo index.html desde tu navegador web.
 
