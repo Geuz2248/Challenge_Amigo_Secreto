@@ -1,6 +1,6 @@
 # Challenge_Amigo_Secreto
 
-# Estado del Proyecto: CONCLUIDO 🟢
+Estado del Proyecto: CONCLUIDO
 
 # Descripción General
 Este reto consiste en una aplicación interactiva donde los usuarios pueden registrar nombres de amigos en una lista y ejecutar un sorteo aleatorio para asignar un "amigo secreto".
@@ -23,7 +23,8 @@ Este reto consiste en una aplicación interactiva donde los usuarios pueden regi
   
   Presiona el botón "Agregar Amigo" para incluirlo en la lista.
   
-  ## Nota: Si el campo está vacío, se mostrará una alerta solicitando que ingreses un nombre.
+  ## Nota 
+  Si el campo está vacío, se mostrará una alerta solicitando que ingreses un nombre.
   
   Visualizar la lista:
   Los nombres agregados se mostrarán automáticamente en una sección designada.
